@@ -106,7 +106,7 @@ export default function Home() {
             <AccordionItem value="item-6">
               <AccordionTrigger>Is DEcFR safe?</AccordionTrigger>
               <AccordionContent>
-                Yes, we require all users to complete our Know Your Customer (KYC) process. This helps us comply with regulations and ensure the security of our platform.
+              While DEcFR offers innovative financial solution, it comes with inherent risks, including smart contract vulnerabilities, market volatility, and regulatory uncertainty. Whether DEcFR is safe depends on the specific platform’s security measures, audits, and how well you understand and manage the risks involved.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
