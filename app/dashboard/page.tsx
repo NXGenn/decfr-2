@@ -114,7 +114,7 @@ export default function Dashboard() {
             <TableBody>
               {loans.map((loan, index) => (
                 <TableRow key={index}>
-                  <TableCell>{loan.amount} USD</TableCell>
+                  <TableCell>{loan.amount} INR</TableCell>
                   <TableCell>{loan.collateral} ETH</TableCell>
                   <TableCell>{loan.duration} days</TableCell>
                   <TableCell>{loan.status}</TableCell>
